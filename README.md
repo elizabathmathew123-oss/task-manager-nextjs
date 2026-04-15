@@ -1,15 +1,15 @@
 # 📝 Task Manager App
 
-A modern Task Manager web application built using Next.js and React.
+A simple and responsive Task Manager application built using Next.js and React.
 
 ## 🚀 Live Demo
-👉 https://your-vercel-link
+👉 https://task-manager-nextjs-7aii.vercel.app
 
 ## 📌 Features
 - Add new tasks
 - Delete tasks
-- Responsive design
-- Clean UI
+- Mark tasks as completed
+- Clean and responsive UI
 
 ## 🛠️ Tech Stack
 - Next.js
@@ -18,7 +18,7 @@ A modern Task Manager web application built using Next.js and React.
 - CSS
 
 ## 📷 Screenshots
-(Add your project screenshots here)
+(Add screenshots here)
 
 ## ⚙️ Installation
 
